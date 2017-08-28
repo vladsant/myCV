@@ -1,0 +1,97 @@
+
+body{
+display: flex;
+}
+
+.container{
+border: 2px solid #ccc;
+margin: 0 auto;;
+width: 96%;
+background: #fff;
+padding: 8px;
+
+}
+
+.principal{
+  background: #156E9C;
+  padding: 15px;
+}
+
+.header{
+display: flex;
+}
+
+.profil-namn{
+margin-left: 40px;
+width: 100%;
+font-size: 270%;
+margin-top: 120px;
+font-weight: bold;
+color: #fff;
+display: flex;
+}
+
+.profil-info{
+text-align: center;
+font-size: 210%;
+margin-right: 50px;
+margin-top: 60px;
+font-weight: bold;
+color: #fff;
+}
+
+
+
+h2{
+color: #156E9C;
+font-size: 200%;
+font-weight: lighter;
+font-weight: bold;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+th{
+font-size: 150%;
+font-weight: bold;
+padding-bottom: 10px;
+padding-left: 40px;
+}
+
+td{
+font-size: 130%;
+padding-bottom: 15px;
+padding-left: 30px;
+
+}
+
+p{
+font-size: 170%;
+}
+.aboutme{
+
+
+}
+
+.intwoyears{
+margin-bottom: 50px;
+
+}
+
+.block{
+background:url('../images/deskmac.jpg')no-repeat center center;
+background-attachment: fixed;
+background-size: cover;
+padding: 20%;
+border: 2px solid ;
+display: flex;
+flex-direction: column;
+}
+
+h5{
+color: black;
+}
+
+.footer{
+display: flex;
+}
